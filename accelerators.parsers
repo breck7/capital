@@ -3,6 +3,11 @@ nameParser
  extends abstractIdParser
  float sortIndex 1.1
 
+applyParser
+ description What is the link to the application?
+ extends abstractUrlMeasureParser
+ float sortIndex 1.1
+
 giveParser
  description How much do they give you?
  extends abstractStringMeasureParser
