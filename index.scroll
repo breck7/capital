@@ -1,16 +1,6 @@
-buildHtml
 title List of startup accelerators
 
-theme gazette roboto
-
-printTitle
-
-css td {font-size: 16px;}
-
-center
-Made by Breck Yunits. Inspired by this tweet from Steven Huang.
- https://x.com/StevenHHB tweet
- https://twitter.com/breckyunits Breck Yunits
+header.scroll
 
 table accelerators.csv
  rename apply nameLink
