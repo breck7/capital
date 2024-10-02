@@ -5,3 +5,5 @@ theme gazette roboto
 
 table accelerators.csv
  printTable
+
+tableSearch
