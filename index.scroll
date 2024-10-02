@@ -6,10 +6,9 @@ theme gazette roboto
 printTitle
 
 center
-Made public domain by
-logo.png
- width 400px
- https://flash.breckyunits.com
+Made by Breck Yunits. Inspired by this tweet from Steven Huang.
+ https://x.com/StevenHHB tweet from Steven Huang
+ https://twitter.com/breckyunits Breck Yunits
 
 table accelerators.csv
  rename apply nameLink
