@@ -35,3 +35,16 @@ notes uncapped SAFE
 name The Mint
 give 500000
 take .1
+
+name AI2 Incubator
+amount 500000
+
+name South Park Commons
+amount 400000
+amount .07
+
+name Founder Institute
+amount .04
+
+name Accel Atoms
+amount 500000
