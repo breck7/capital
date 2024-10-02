@@ -5,6 +5,8 @@ theme gazette roboto
 
 printTitle
 
+css table {font-size: 24px;}
+
 center
 Made by Breck Yunits. Inspired by this tweet from Steven Huang.
  https://x.com/StevenHHB tweet
