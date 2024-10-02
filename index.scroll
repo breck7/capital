@@ -1,6 +1,8 @@
 buildHtml
 title FlashApp: Apply to 16 accelerators at once
 
+theme gazette roboto
+
 printTitle
 
 center
@@ -8,8 +10,6 @@ Made public domain by
 logo.png
  width 400px
  https://flash.breckyunits.com
-
-theme gazette roboto
 
 table accelerators.csv
  rename apply nameLink
