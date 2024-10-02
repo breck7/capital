@@ -47,26 +47,38 @@ apply https://mintapplication.btv.vc/
 name Launch Accelerator
 give 125000
 take .07
+apply https://www.launch.co/apply
 
 name Greylock Edge
 give 500000
 notes Flexible SAFE + $500k+ in credits
+apply https://form.typeform.com/to/a9xz4TxD
 
 name AI2 Incubator
 give 500000
+apply https://www.ai2incubator.com/apply
 
 name South Park Commons
 give 400000
 take .07
+apply https://www.southparkcommons.com/apply
 
 name Founder Institute
 take .04
+apply https://fi.co/apply
 
 name Accel Atoms
 give 500000
+apply https://atoms.accel.com/
 
 name Bitcoin Frontier Accelerator
 give 70000
+apply https://btcfrontier.fund/accelerator.html
 
 name Platanus Ventures
 give 200000
+apply https://kalio.platan.us/apply
+
+name Blue Startups
+give 25000
+apply https://www.bluestartups.com/
