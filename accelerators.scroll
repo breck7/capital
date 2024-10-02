@@ -40,6 +40,10 @@ name Launch Accelerator
 give 125000
 take .07
 
+name Greylock Edge
+give 500000
+notes Flexible SAFE + $500k+ in credits
+
 name AI2 Incubator
 amount 500000
 
