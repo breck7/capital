@@ -1,7 +1,9 @@
+accelerators.parsers
+
 name Y Combinator
+notes (7% equity + 375k MFN SAFE)
 amount 500000
 amount .07
-notes (7% equity + 375k MFN SAFE)
 
 name 500 Startups
 amount 112500
@@ -24,9 +26,9 @@ amount 200000
 amount .12
 
 name Hf0
+notes uncapped SAFE
 amount 1000000
 amount .05
-notes uncapped SAFE
 
 name The Mint
 amount 500000
