@@ -17,3 +17,5 @@ table accelerators.csv
   printTable
 
 tableSearch
+
+footer.scroll
