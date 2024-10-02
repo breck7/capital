@@ -4,6 +4,7 @@ title FlashApp: Apply to 16 accelerators at once
 theme gazette roboto
 
 table accelerators.csv
- printTable
+ rename apply nameLink
+  printTable
 
 tableSearch
