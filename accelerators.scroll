@@ -1,35 +1,35 @@
 accelerators.parsers
 
 name Y Combinator
+give 500000
+take .07
 notes (7% equity + 375k MFN SAFE)
-amount 500000
-amount .07
 
 name 500 Startups
-amount 112500
-amount .06
+give 112500
+take .06
 
 name Techstars
-amount 120000
-amount .06
+give 120000
+take .06
 
 name Berkeley SkyDeck
-amount 200000
-amount .075
+give 200000
+take .075
 
 name Alchemist Accelerator
-amount 25000
-amount .05
+give 25000
+take .05
 
 name Antler US
-amount 200000
-amount .12
+give 200000
+take .12
 
 name Hf0
+give 1000000
+take .05
 notes uncapped SAFE
-amount 1000000
-amount .05
 
 name The Mint
-amount 500000
-amount .1
+give 500000
+take .1
