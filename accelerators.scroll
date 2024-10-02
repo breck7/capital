@@ -45,20 +45,20 @@ give 500000
 notes Flexible SAFE + $500k+ in credits
 
 name AI2 Incubator
-amount 500000
+gives 500000
 
 name South Park Commons
-amount 400000
-amount .07
+gives 400000
+takes .07
 
 name Founder Institute
-amount .04
+takes .04
 
 name Accel Atoms
-amount 500000
+gives 500000
 
 name Bitcoin Frontier Accelerator
-amount 70000
+gives 70000
 
 name Platanus Ventures
-amount 200000
+gives 200000
