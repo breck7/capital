@@ -1,6 +1,8 @@
 buildHtml
 title FlashApp: Apply to 16 accelerators at once
 
+printTitle
+
 theme gazette roboto
 
 table accelerators.csv
