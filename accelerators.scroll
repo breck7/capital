@@ -65,6 +65,7 @@ take .07
 
 name Founder Institute
 apply https://fi.co/apply
+give 0
 take .04
 
 name Accel Atoms
