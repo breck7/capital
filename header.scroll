@@ -5,7 +5,6 @@ openGraphImage og.png
 
 theme gazette roboto
 metaTags
-printTitle
 
 css td {font-size: 16px;}
 
