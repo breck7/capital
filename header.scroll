@@ -1,5 +1,6 @@
 importOnly
 buildHtml
+openGraphImage og.png
 
 theme gazette roboto
 
