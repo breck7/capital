@@ -2,8 +2,6 @@ title SpeedUp: List of startup accelerators
 
 header.scroll
 
-# SpeedUp: List of startup accelerators
-
 table accelerators.csv
  rename apply nameLink
   orderBy -give
