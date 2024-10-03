@@ -4,7 +4,8 @@ header.scroll
 
 table accelerators.csv
  rename apply nameLink
-  printTable
+  orderBy -give
+   printTable
 
 tableSearch
 
