@@ -1,5 +1,6 @@
 importOnly
 buildHtml
+favicon favicon.ico
 openGraphImage og.png
 
 theme gazette roboto
