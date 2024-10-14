@@ -2,6 +2,9 @@ importOnly
 buildHtml
 favicon logo.png
 openGraphImage og.png
+replace MOTTO Find capital to make things you love
+replace NAME CapitalDB
+title NAME: MOTTO
 
 theme gazette
 metaTags
@@ -13,9 +16,9 @@ homeButton
 
 container 800px
 
-# CapitalDB
+# NAME
  style font-weight: 100; font-size: 400%;
-## Find capital to make things you love
+## MOTTO
  style font-weight: 100; font-size: 200%;
 
 links.scroll
