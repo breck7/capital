@@ -1,0 +1,45 @@
+nameParser
+ description What is the name of the source?
+ extends abstractIdParser
+ float sortIndex 1.1
+
+applyParser
+ description What is the link to the application?
+ extends abstractUrlMeasureParser
+ float sortIndex 1.1
+
+tagsParser
+ description What labels apply to this?
+ extends abstractStringMeasureParser
+ float sortIndex 1.12
+
+giveParser
+ description How much do they give you?
+ extends abstractStringMeasureParser
+ float sortIndex 1.2
+
+takeParser
+ description How much do they take?
+ extends abstractStringMeasureParser
+ float sortIndex 1.3
+
+notesParser
+ description Any special terms?
+ extends abstractStringMeasureParser
+ float sortIndex 1.4
+
+locationParser
+ description What is the location of the source?
+ extends abstractStringMeasureParser
+ float sortIndex 1.5
+
+latParser
+ description What is the latitude of the source?
+ extends abstractFloatMeasureParser
+ float sortIndex 1.51
+
+longParser
+ description What is the longitude of the source?
+ extends abstractFloatMeasureParser
+ float sortIndex 1.52
+

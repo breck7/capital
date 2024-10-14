@@ -2,8 +2,17 @@ title CapitalDB: Find capital to make something you love
 
 header.scroll
 
-table accelerators.csv
+table sources.csv
  rename apply nameLink
+  map
+   lat 37.77629573892393
+   long -122.39484531479059
+   zoom 2
+   fillColor green
+   radius 15
+   tiles light
+   color transparent
+   hover <b><a href="{nameLink}">{name}</a></b><br>Location: {location}
   orderBy -give
    printTable
 

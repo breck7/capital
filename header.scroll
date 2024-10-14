@@ -3,16 +3,18 @@ buildHtml
 favicon logo.png
 openGraphImage og.png
 
-theme gazette roboto
+theme gazette
 metaTags
 
 css td {font-size: 16px;}
 
-printTitle
-
 homeButton
 
-center
-Made by Breck Yunits. Inspired by this tweet from Steven Huang.
- https://x.com/StevenHHB tweet
- https://twitter.com/breckyunits Breck Yunits
+container 800px
+
+# CapitalDB
+## Find capital to make something you love
+
+
+
+links.scroll

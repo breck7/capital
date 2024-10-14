@@ -4,82 +4,150 @@ sources.parsers
 
 name Y Combinator
 apply https://www.ycombinator.com/apply
+tags accelerator
 give 500000
 take .07
 notes (7% equity + 375k MFN SAFE)
+location Mountain View, California, USA
+lat 37.3861
+long -122.0839
 
 name 500 Startups
 apply https://flagship.aplica.500.co/
+tags accelerator
 give 112500
 take .06
+location San Francisco, California, USA
+lat 37.7749
+long -122.4194
 
 name Techstars
 apply https://apply.techstars.com/?source=nav
+tags accelerator
 give 120000
 take .06
+location Boulder, Colorado, USA
+lat 40.0150
+long -105.2705
 
 name Berkeley SkyDeck
 apply https://skydeck.berkeley.edu/apply/
+tags accelerator
 give 200000
 take .075
+location Berkeley, California, USA
+lat 37.8715
+long -122.2730
 
 name Alchemist Accelerator
 apply https://www.alchemistaccelerator.com/apply
+tags accelerator
 give 25000
 take .05
+location San Francisco, California, USA
+lat 37.7749
+long -122.4194
 
 name Antler US
 apply https://www.antler.co/apply
+tags accelerator
 give 200000
 take .12
+location New York, New York, USA
+lat 40.7128
+long -74.0060
 
 name Hf0
 apply https://www.hf0.com/apply
+tags accelerator
 give 1000000
 take .05
 notes uncapped SAFE
+location San Francisco, California, USA
+lat 37.7749
+long -122.4194
 
 name The Mint
 apply https://mintapplication.btv.vc/
+tags accelerator
 give 500000
 take .1
+location Austin, Texas, USA
+lat 30.2672
+long -97.7431
 
 name Launch Accelerator
 apply https://www.launch.co/apply
+tags accelerator
 give 125000
 take .07
+location San Francisco, California, USA
+lat 37.7749
+long -122.4194
 
 name Greylock Edge
 apply https://form.typeform.com/to/a9xz4TxD
+tags accelerator
 give 500000
 notes Flexible SAFE + $500k+ in credits
+location Menlo Park, California, USA
+lat 37.4530
+long -122.1817
 
 name AI2 Incubator
 apply https://www.ai2incubator.com/apply
+tags accelerator
 give 500000
+location Seattle, Washington, USA
+lat 47.6062
+long -122.3321
 
 name South Park Commons
 apply https://www.southparkcommons.com/apply
+tags accelerator
 give 400000
 take .07
+location San Francisco, California, USA
+lat 37.7749
+long -122.4194
 
 name Founder Institute
 apply https://fi.co/apply
+tags accelerator
 give 0
 take .04
+location Palo Alto, California, USA
+lat 37.4419
+long -122.1430
 
 name Accel Atoms
 apply https://atoms.accel.com/
+tags accelerator
 give 500000
+location Palo Alto, California, USA
+lat 37.4419
+long -122.1430
 
 name Bitcoin Frontier Accelerator
 apply https://btcfrontier.fund/accelerator.html
+tags accelerator
 give 70000
+location El Zonte, El Salvador
+lat 13.4942
+long -89.3853
 
 name Platanus Ventures
 apply https://kalio.platan.us/apply
+tags accelerator
 give 200000
+location Santiago, Chile
+lat -33.4489
+long -70.6693
 
 name Blue Startups
 apply https://www.bluestartups.com/
+tags accelerator
 give 25000
+location Honolulu, Hawaii, USA
+lat 21.3069
+long -157.8583
