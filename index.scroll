@@ -12,7 +12,8 @@ table sources.csv
    color transparent
    hover <b><a href="{nameLink}">{name}</a></b><br>Location: {location}
   orderBy -give
-   printTable
+   select name nameLink tags location
+    printTable
 
 tableSearch
 
