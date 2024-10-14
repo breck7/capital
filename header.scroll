@@ -7,13 +7,16 @@ theme gazette
 metaTags
 
 css td {font-size: 16px;}
+css html {font-family: "SF Pro", "Helvetica Neue", "Segoe UI", "Arial"; font-size: var(--base-font-size, 14px);}
 
 homeButton
 
 container 800px
 
 # CapitalDB
+ style font-weight: 100; font-size: 400%;
 ## Find capital to make something you love
+ style font-weight: 100; font-size: 200%;
 
 
 
