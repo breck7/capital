@@ -6,7 +6,525 @@ sources.parsers
 
 // VCS
 
-// Nevada, Arizona, & Utah VCs
+name Frontline Ventures
+apply https://www.frontline.vc
+tags vc seed early growth
+founded 2012
+location Dublin, Ireland
+lat 53.3498
+long -6.2603
+
+name Delta Partners
+apply https://www.deltapartners.com
+tags vc seed early growth
+founded 1994
+location Dublin, Ireland
+lat 53.3498
+long -6.2603
+
+name Atlantic Bridge
+apply https://www.abven.com
+tags vc seed early growth
+founded 2004
+location Dublin, Ireland
+lat 53.3498
+long -6.2603
+
+name Balderton Capital
+apply https://www.balderton.com
+tags vc seed early growth
+founded 2000
+location London, United Kingdom
+lat 51.5074
+long -0.1278
+
+name Atomico
+apply https://www.atomico.com
+tags vc seed early growth
+founded 2006
+location London, United Kingdom
+lat 51.5074
+long -0.1278
+
+name LocalGlobe
+apply https://www.localglobe.vc
+tags vc seed early growth
+founded 2015
+location London, United Kingdom
+lat 51.5074
+long -0.1278
+
+name Index Ventures
+apply https://www.indexventures.com
+tags vc seed early growth
+founded 1996
+location London, United Kingdom
+lat 51.5074
+long -0.1278
+
+name Octopus Ventures
+apply https://www.octopusventures.com
+tags vc seed early growth
+founded 2000
+location London, United Kingdom
+lat 51.5074
+long -0.1278
+
+name Seed Capital
+apply https://www.seedcapital.dk
+tags vc seed early growth
+founded 2004
+location Copenhagen, Denmark
+lat 55.6761
+long 12.5683
+
+name Heartcore Capital
+apply https://www.heartcore.com
+tags vc seed early growth
+founded 2007
+location Copenhagen, Denmark
+lat 55.6761
+long 12.5683
+
+name Prime Ventures
+apply https://www.primeventures.com
+tags vc seed early growth
+founded 1999
+location Amsterdam, Netherlands
+lat 52.3676
+long 4.9041
+
+name Endeit Capital
+apply https://www.endeit.com
+tags vc seed early growth
+founded 2006
+location Amsterdam, Netherlands
+lat 52.3676
+long 4.9041
+
+name henQ
+apply https://www.henq.vc
+tags vc seed early growth
+founded 2004
+location Amsterdam, Netherlands
+lat 52.3676
+long 4.9041
+
+name United Ventures
+apply https://www.unitedventures.it
+tags vc seed early growth
+founded 2013
+location Milan, Italy
+lat 45.4642
+long 9.1900
+
+name P101 Ventures
+apply https://www.p101.it
+tags vc seed early growth
+founded 2013
+location Milan, Italy
+lat 45.4642
+long 9.1900
+
+name Primo Ventures
+apply https://www.primoventures.com
+tags vc seed early growth
+founded 2016
+location Rome, Italy
+lat 41.9028
+long 12.4964
+
+name Northzone
+apply https://northzone.com
+tags vc seed early growth
+founded 1996
+location Oslo, Norway
+lat 59.9139
+long 10.7522
+
+name Maki.vc
+apply https://www.maki.vc
+tags vc seed early growth
+founded 2018
+location Helsinki, Finland
+lat 60.1695
+long 24.9354
+
+name Credo Ventures
+apply https://www.credoventures.com
+tags vc seed early growth
+founded 2009
+location Prague, Czech Republic
+lat 50.0755
+long 14.4378
+
+name Earlybird Venture Capital (Digital East Fund)
+apply https://www.earlybird.com
+tags vc seed early growth
+founded 2010
+location Istanbul, Turkey
+lat 41.0082
+long 28.9784
+
+name 3TS Capital Partners
+apply https://www.3tscapital.com
+tags vc seed early growth
+founded 1998
+location Vienna, Austria
+lat 48.2082
+long 16.3738
+
+name VentureFriends
+apply https://venturefriends.vc
+tags vc seed early growth
+founded 2016
+location Athens, Greece
+lat 37.9838
+long 23.7275
+
+name Marathon Venture Capital
+apply https://www.marathon.vc
+tags vc seed early growth
+founded 2017
+location Athens, Greece
+lat 37.9838
+long 23.7275
+
+name Partech Africa
+apply https://partechpartners.com
+tags vc seed early growth
+founded 2018
+location Dakar, Senegal
+lat 14.6928
+long -17.4467
+
+name EchoVC Partners
+apply https://www.echovc.com
+tags vc seed early growth
+founded 2013
+location Lagos, Nigeria
+lat 6.5244
+long 3.3792
+
+name 4Di Capital
+apply https://www.4dicapital.com
+tags vc seed early growth
+founded 2009
+location Cape Town, South Africa
+lat -33.9249
+long 18.4241
+
+name CRE Venture Capital
+apply https://www.cre.vc
+tags vc seed early growth
+founded 2015
+location Johannesburg, South Africa
+lat -26.2041
+long 28.0473
+
+name Kibo Ventures
+apply https://www.kiboventures.com
+tags vc seed early growth
+founded 2012
+location Madrid, Spain
+lat 40.4168
+long -3.7038
+
+name Seaya Ventures
+apply https://www.seayaventures.com
+tags vc seed early growth
+founded 2013
+location Madrid, Spain
+lat 40.4168
+long -3.7038
+
+name Indico Capital Partners
+apply https://www.indicocapital.com
+tags vc seed early growth
+founded 2017
+location Lisbon, Portugal
+lat 38.7223
+long -9.1393
+
+name Kaszek Ventures
+apply https://www.kaszek.com
+tags vc seed early growth
+founded 2011
+location Buenos Aires, Argentina
+lat -34.6037
+long -58.3816
+
+name Monashees
+apply https://www.monashees.com
+tags vc seed early growth
+founded 2005
+location São Paulo, Brazil
+lat -23.5505
+long -46.6333
+
+name Canary
+apply https://www.canary.vc
+tags vc seed early growth
+founded 2017
+location São Paulo, Brazil
+lat -23.5505
+long -46.6333
+
+name NXTP Ventures
+apply https://www.nxtp.vc
+tags vc seed early growth
+founded 2011
+location Buenos Aires, Argentina
+lat -34.6037
+long -58.3816
+
+name Atlantico
+apply https://www.atlantico.vc
+tags vc seed early growth
+founded 2019
+location São Paulo, Brazil
+lat -23.5505
+long -46.6333
+
+name SoftBank Ventures Asia
+apply https://www.softbank.jp/en/vc
+tags vc seed early growth
+founded 2000
+location Tokyo, Japan
+lat 35.6762
+long 139.6503
+
+name Global Brain
+apply https://globalbrains.com/en
+tags vc seed early growth
+founded 1998
+location Tokyo, Japan
+lat 35.6762
+long 139.6503
+
+name JAFCO Group
+apply https://www.jafco.co.jp/english
+tags vc seed early growth
+founded 1973
+location Tokyo, Japan
+lat 35.6762
+long 139.6503
+
+name Coral Capital
+apply https://coralcap.co
+tags vc seed early growth
+founded 2019
+location Tokyo, Japan
+lat 35.6762
+long 139.6503
+
+name ANRI
+apply https://anri.vc
+tags vc seed early growth
+founded 2012
+location Tokyo, Japan
+lat 35.6762
+long 139.6503
+
+name Real Ventures
+apply https://www.realventures.com
+tags vc seed early growth
+founded 2007
+location Montreal, Quebec, Canada
+lat 45.5017
+long -73.5673
+
+name Inovia Capital
+apply https://www.inovia.vc
+tags vc seed early growth
+founded 2007
+location Montreal, Quebec, Canada
+lat 45.5017
+long -73.5673
+
+name Version One Ventures
+apply https://versionone.vc
+tags vc seed early growth
+founded 2012
+location Vancouver, British Columbia, Canada
+lat 49.2827
+long -123.1207
+
+name Golden Ventures
+apply https://www.goldenvp.com
+tags vc seed early growth
+founded 2011
+location Toronto, Ontario, Canada
+lat 43.651070
+long -79.347015
+
+name Panache Ventures
+apply https://www.panache.vc
+tags vc seed early growth
+founded 2018
+location Toronto, Ontario, Canada
+lat 43.651070
+long -79.347015
+
+name Rally Ventures
+apply https://www.rallyventures.com
+tags vc seed early growth
+founded 2013
+location Minneapolis, Minnesota, USA
+lat 44.9778
+long -93.2650
+
+name Brightstone Venture Capital
+apply https://www.brightstonevc.com
+tags vc seed early growth
+founded 1985
+location Minneapolis, Minnesota, USA
+lat 44.9778
+long -93.2650
+
+name Arthur Ventures
+apply https://www.arthurventures.com
+tags vc seed early growth
+founded 2008
+location Minneapolis, Minnesota, USA
+lat 44.9778
+long -93.2650
+
+name Frontier Capital
+apply https://www.frontiercapital.com
+tags vc seed early growth
+founded 2017
+location Bozeman, Montana, USA
+lat 45.6766
+long -111.0429
+
+name Next Frontier Capital
+apply https://www.nextfrontiercapital.com
+tags vc seed early growth
+founded 2015
+location Bozeman, Montana, USA
+lat 45.6766
+long -111.0429
+
+name Two Bear Capital
+apply https://twobearcapital.com
+tags vc seed early growth
+founded 2019
+location Whitefish, Montana, USA
+lat 48.4111
+long -114.3370
+
+name Florida Funders
+apply https://www.floridafunders.com
+tags vc seed early growth
+founded 2014
+location Tampa, Florida, USA
+lat 27.9506
+long -82.4572
+
+name DeepWork Capital
+apply https://www.deepworkcapital.com
+tags vc seed early growth
+founded 2015
+location Orlando, Florida, USA
+lat 28.5383
+long -81.3792
+
+name Krillion Ventures
+apply https://www.krillionventures.com
+tags vc seed early growth
+founded 2014
+location Miami, Florida, USA
+lat 25.7617
+long -80.1918
+
+name Emergent Ventures
+apply https://www.emergent.vc
+tags vc seed early growth
+founded 2016
+location Miami, Florida, USA
+lat 25.7617
+long -80.1918
+
+name Golden Angels Investors
+apply https://www.goldenangelsinvestors.com
+tags vc seed early growth
+founded 2002
+location Milwaukee, Wisconsin, USA
+lat 43.0389
+long -87.9065
+
+name Venture Investors
+apply https://www.ventureinvestors.com
+tags vc seed early growth
+founded 1982
+location Madison, Wisconsin, USA
+lat 43.0731
+long -89.4012
+
+name BrightStar Wisconsin Foundation
+apply https://www.brightstarwi.org
+tags vc seed early growth
+founded 2013
+location Milwaukee, Wisconsin, USA
+lat 43.0389
+long -87.9065
+
+name Madrona Venture Group
+apply https://www.madrona.com
+tags vc seed early growth
+founded 1995
+location Seattle, Washington, USA
+lat 47.6062
+long -122.3321
+
+name Voyager Capital
+apply https://www.voyagercapital.com
+tags vc seed early growth
+founded 1997
+location Seattle, Washington, USA
+lat 47.6062
+long -122.3321
+
+name Ignition Partners
+apply https://www.ignitionpartners.com
+tags vc seed early growth
+founded 2000
+location Bellevue, Washington, USA
+lat 47.6104
+long -122.2007
+
+name Seven Peaks Ventures
+apply https://www.sevenpeaksventures.com
+tags vc seed early growth
+founded 2013
+location Bend, Oregon, USA
+lat 44.0582
+long -121.3153
+
+name PSL Ventures
+apply https://www.psl.com/ventures
+tags vc seed early growth
+founded 2017
+location Seattle, Washington, USA
+lat 47.6062
+long -122.3321
+
+name Flying Fish Partners
+apply https://www.flyingfish.vc
+tags vc seed early growth
+founded 2016
+location Seattle, Washington, USA
+lat 47.6062
+long -122.3321
+
+name Oregon Venture Fund
+apply https://www.oregonventurefund.com
+tags vc seed early growth
+founded 2007
+location Portland, Oregon, USA
+lat 45.5152
+long -122.6784
 
 name Kickstart Seed Fund
 apply https://www.kickstartfund.com
@@ -383,14 +901,6 @@ founded 2010
 location Paris, France
 lat 48.8566
 long 2.3522
-
-name Point Nine Capital
-apply https://www.pointninecap.com
-tags vc seed early
-founded 2011
-location Berlin, Germany
-lat 52.5200
-long 13.4050
 
 name Sequoia Capital
 apply https://www.sequoiacap.com

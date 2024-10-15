@@ -3,8 +3,8 @@ header.scroll
 table sources.csv
  rename apply nameLink
   map
-   lat 37.77629573892393
-   long -122.39484531479059
+   lat 42.0834
+   long -71.0184
    zoom 2
    fillColor green
    height full
