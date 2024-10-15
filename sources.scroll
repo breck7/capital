@@ -6,6 +6,205 @@ sources.parsers
 
 // VCS
 
+name Granite Asia
+apply https://www.graniteasia.com
+tags vc multi-asset investment
+founded 2000
+location Singapore
+lat 1.2833
+long 103.8530
+
+name Notable Capital
+apply https://notablecap.com/
+tags vc
+location 21 South Park Street, San Francisco, CA 94107
+lat 37.7813
+long -122.3936
+
+name IDG Capital
+apply https://www.idgcapital.com
+tags vc seed early growth
+founded 1993
+location Beijing, China
+lat 39.9042
+long 116.4074
+
+name Qiming Venture Partners
+apply https://www.qimingvc.com
+tags vc seed early growth
+founded 2006
+location Shanghai, China
+lat 31.2304
+long 121.4737
+
+name ZhenFund
+apply https://www.zhenfund.com
+tags vc seed early
+founded 2011
+location Beijing, China
+lat 39.9042
+long 116.4074
+
+name Matrix Partners China
+apply https://www.matrixpartners.com.cn
+tags vc seed early growth
+founded 2008
+location Beijing, China
+lat 39.9042
+long 116.4074
+
+name Hillhouse Capital Group
+apply https://www.hillhousecap.com
+tags vc seed early growth
+founded 2005
+location Beijing, China
+lat 39.9042
+long 116.4074
+
+name Lightspeed China Partners
+apply https://www.lightspeedcp.com.cn
+tags vc seed early growth
+founded 2006
+location Shanghai, China
+lat 31.2304
+long 121.4737
+
+name Sinovation Ventures
+apply https://www.sinovationventures.com
+tags vc seed early growth
+founded 2009
+location Beijing, China
+lat 39.9042
+long 116.4074
+
+name Blume Ventures
+apply https://www.blume.vc
+tags vc seed early
+founded 2011
+location Mumbai, India
+lat 19.0760
+long 72.8777
+
+name Nexus Venture Partners
+apply https://www.nexusvp.com
+tags vc seed early growth
+founded 2006
+location Mumbai, India
+lat 19.0760
+long 72.8777
+
+name Kalaari Capital
+apply https://www.kalaari.com
+tags vc seed early growth
+founded 2006
+location Bengaluru, India
+lat 12.9716
+long 77.5946
+
+name Matrix Partners India
+apply https://www.matrixpartners.in
+tags vc seed early growth
+founded 2006
+location Mumbai, India
+lat 19.0760
+long 72.8777
+
+name Elevation Capital (formerly SAIF Partners)
+apply https://www.elevationcapital.com
+tags vc seed early growth
+founded 2001
+location Gurgaon, India
+lat 28.4595
+long 77.0266
+
+name Chiratae Ventures
+apply https://www.chiratae.com
+tags vc seed early growth
+founded 2006
+location Bengaluru, India
+lat 12.9716
+long 77.5946
+
+name East Ventures
+apply https://east.vc
+tags vc seed early growth
+founded 2009
+location Jakarta, Indonesia
+lat -6.2088
+long 106.8456
+
+name Golden Gate Ventures
+apply https://www.goldengate.vc
+tags vc seed early growth
+founded 2011
+location Singapore
+lat 1.3521
+long 103.8198
+
+name Jungle Ventures
+apply https://www.jungle.vc
+tags vc seed early growth
+founded 2012
+location Singapore
+lat 1.3521
+long 103.8198
+
+name Monk’s Hill Ventures
+apply https://www.monkshill.com
+tags vc seed early growth
+founded 2014
+location Singapore
+lat 1.3521
+long 103.8198
+
+name Wavemaker Partners
+apply https://wavemaker.vc
+tags vc seed early growth
+founded 2012
+location Singapore
+lat 1.3521
+long 103.8198
+
+name Vertex Ventures Southeast Asia & India
+apply https://www.vertexventures.sg
+tags vc seed early growth
+founded 1988
+location Singapore
+lat 1.3521
+long 103.8198
+
+name Gobi Partners
+apply https://www.gobivc.com
+tags vc seed early growth
+founded 2002
+location Kuala Lumpur, Malaysia
+lat 3.1390
+long 101.6869
+
+name 500 Southeast Asia (500 Startups)
+apply https://500.co
+tags vc seed early growth
+founded 2013
+location Singapore
+lat 1.3521
+long 103.8198
+
+name Openspace Ventures
+apply https://openspace.vc
+tags vc seed early growth
+founded 2014
+location Singapore
+lat 1.3521
+long 103.8198
+
+name VinaCapital Ventures
+apply https://vinacapital.com
+tags vc seed early growth
+founded 2018
+location Ho Chi Minh City, Vietnam
+lat 10.8231
+long 106.6297
+
 name Green Cow Venture Capital
 apply https://www.greencow.vc
 tags vc seed early growth
