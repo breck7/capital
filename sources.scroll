@@ -6,6 +6,118 @@ sources.parsers
 
 // VCS
 
+name Silverton Partners
+apply https://www.silvertonpartners.com
+tags vc seed early growth
+founded 2006
+location Austin, Texas, USA
+lat 30.2672
+long -97.7431
+
+name LiveOak Venture Partners
+apply https://liveoakvp.com
+tags vc seed early growth
+founded 2013
+location Austin, Texas, USA
+lat 30.2672
+long -97.7431
+
+name Mercury Fund
+apply https://mercuryfund.com
+tags vc seed early growth
+founded 2005
+location Houston, Texas, USA
+lat 29.7604
+long -95.3698
+
+name Capital Factory
+apply https://www.capitalfactory.com
+tags vc seed early growth
+founded 2009
+location Austin, Texas, USA
+lat 30.2672
+long -97.7431
+
+name ATX Venture Partners
+apply https://www.atxventurepartners.com
+tags vc seed early growth
+founded 2014
+location Austin, Texas, USA
+lat 30.2672
+long -97.7431
+
+name Scout Ventures
+apply https://scoutventures.com
+tags vc seed early growth
+founded 2010
+location Dallas, Texas, USA
+lat 32.7767
+long -96.7970
+
+name Noro-Moseley Partners
+apply https://www.noromoseley.com
+tags vc seed early growth
+founded 1983
+location Atlanta, Georgia, USA
+lat 33.7490
+long -84.3880
+
+name Drive Capital
+apply https://www.drivecapital.com
+tags vc seed early growth
+founded 2013
+location Columbus, Ohio, USA
+lat 39.9612
+long -82.9988
+
+name Hyde Park Venture Partners
+apply https://www.hydeparkvp.com
+tags vc seed early growth
+founded 2011
+location Chicago, Illinois, USA
+lat 41.8781
+long -87.6298
+
+name Lightbank
+apply https://www.lightbank.com
+tags vc seed early growth
+founded 2010
+location Chicago, Illinois, USA
+lat 41.8781
+long -87.6298
+
+name Pritzker Group Venture Capital
+apply https://www.pritzkergroup.com
+tags vc seed early growth
+founded 1996
+location Chicago, Illinois, USA
+lat 41.8781
+long -87.6298
+
+name Detroit Venture Partners
+apply https://detroit.vc
+tags vc seed early growth
+founded 2010
+location Detroit, Michigan, USA
+lat 42.3314
+long -83.0458
+
+name Revolution Ventures (Rise of the Rest)
+apply https://www.revolution.com
+tags vc seed early growth
+founded 2013
+location Washington, D.C., USA
+lat 38.9072
+long -77.0369
+
+name Chicago Ventures
+apply https://chicagoventures.com
+tags vc seed early growth
+founded 2012
+location Chicago, Illinois, USA
+lat 41.8781
+long -87.6298
+
 name Blackbird Ventures
 apply https://blackbird.vc
 tags vc seed early growth
