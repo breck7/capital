@@ -1,4 +1,5 @@
 importOnly
+baseUrl https://capitaldb.togger.com/
 buildHtml
 favicon logo.png
 openGraphImage og.png
