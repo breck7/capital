@@ -24,4 +24,4 @@ container 800px
 links.scroll
 
 center
-* git clone http://localhost/capitaldb.togger.com.git
+plainText git clone http://localhost/capitaldb.togger.com.git
