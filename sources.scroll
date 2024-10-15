@@ -6,6 +6,22 @@ sources.parsers
 
 // VCS
 
+name Green Cow Venture Capital
+apply https://www.greencow.vc
+tags vc seed early growth
+founded 2013
+location Sausalito, California, USA
+lat 37.8591
+long -122.4853
+
+name Crosslink Capital
+apply https://www.crosslinkcapital.com
+tags vc seed early growth
+founded 1989
+location San Mateo, California, USA
+lat 37.5630
+long -122.3255
+
 name Upfront Ventures
 apply https://www.upfront.com
 tags vc seed early growth
