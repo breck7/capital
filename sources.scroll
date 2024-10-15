@@ -6,6 +6,166 @@ sources.parsers
 
 // VCS
 
+name Blackbird Ventures
+apply https://blackbird.vc
+tags vc seed early growth
+founded 2012
+location Sydney, Australia
+lat -33.8688
+long 151.2093
+
+name Square Peg Capital
+apply https://www.squarepegcap.com
+tags vc seed early growth
+founded 2012
+location Melbourne, Australia
+lat -37.8136
+long 144.9631
+
+name AirTree Ventures
+apply https://www.airtree.vc
+tags vc seed early growth
+founded 2014
+location Sydney, Australia
+lat -33.8688
+long 151.2093
+
+name Right Click Capital
+apply https://www.rightclickcapital.com
+tags vc seed early growth
+founded 2003
+location Sydney, Australia
+lat -33.8688
+long 151.2093
+
+name Icehouse Ventures
+apply https://www.icehouseventures.co.nz
+tags vc seed early growth
+founded 2001
+location Auckland, New Zealand
+lat -36.8485
+long 174.7633
+
+name Movac
+apply https://www.movac.co.nz
+tags vc seed early growth
+founded 1998
+location Wellington, New Zealand
+lat -41.2865
+long 174.7762
+
+name Pitango Venture Capital
+apply https://www.pitango.com
+tags vc seed early growth
+founded 1993
+location Tel Aviv, Israel
+lat 32.0853
+long 34.7818
+
+name Vertex Ventures Israel
+apply https://www.vertexventures.com
+tags vc seed early growth
+founded 1997
+location Tel Aviv, Israel
+lat 32.0853
+long 34.7818
+
+name Jerusalem Venture Partners (JVP)
+apply https://www.jvpvc.com
+tags vc seed early growth
+founded 1993
+location Jerusalem, Israel
+lat 31.7683
+long 35.2137
+
+name Carmel Ventures (Viola Ventures)
+apply https://www.viola.vc
+tags vc seed early growth
+founded 2000
+location Herzliya, Israel
+lat 32.1663
+long 34.8439
+
+name BECO Capital
+apply https://becocapital.com
+tags vc seed early growth
+founded 2012
+location Dubai, UAE
+lat 25.276987
+long 55.296249
+
+name Wamda Capital
+apply https://www.wamdacapital.com
+tags vc seed early growth
+founded 2014
+location Dubai, UAE
+lat 25.276987
+long 55.296249
+
+name Middle East Venture Partners (MEVP)
+apply https://www.mevp.com
+tags vc seed early growth
+founded 2010
+location Beirut, Lebanon
+lat 33.88863
+long 35.49548
+
+name Shorooq Partners
+apply https://www.shorooq.com
+tags vc seed early growth
+founded 2017
+location Abu Dhabi, UAE
+lat 24.453884
+long 54.377343
+
+name Arzan Venture Capital
+apply https://www.arzanvc.com
+tags vc seed early growth
+founded 2013
+location Kuwait City, Kuwait
+lat 29.375859
+long 47.977405
+
+name 500 Falcons (500 Startups MENA)
+apply https://www.500.co
+tags vc seed early growth
+founded 2016
+location Dubai, UAE
+lat 25.276987
+long 55.296249
+
+name STV (Saudi Technology Ventures)
+apply https://stv.vc
+tags vc seed early growth
+founded 2017
+location Riyadh, Saudi Arabia
+lat 24.713552
+long 46.675296
+
+name VentureSouq
+apply https://www.venturesouq.com
+tags vc seed early growth
+founded 2013
+location Dubai, UAE
+lat 25.276987
+long 55.296249
+
+name Raed Ventures
+apply https://raed.vc
+tags vc seed early growth
+founded 2015
+location Riyadh, Saudi Arabia
+lat 24.713552
+long 46.675296
+
+name Global Ventures
+apply https://www.global.vc
+tags vc seed early growth
+founded 2018
+location Dubai, UAE
+lat 25.276987
+long 55.296249
+
 name Atomico
 apply https://www.atomico.com
 tags vc early growth
