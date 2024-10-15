@@ -1467,15 +1467,6 @@ location Palo Alto, California, USA
 lat 37.4419
 long -122.1430
 
-name Bitcoin Frontier Accelerator
-apply https://btcfrontier.fund/accelerator.html
-tags accelerator
-founded 2021
-programAmount 70000
-location El Zonte, El Salvador
-lat 13.4942
-long -89.3853
-
 name Platanus Ventures
 apply https://kalio.platan.us/apply
 tags accelerator
@@ -1493,3 +1484,22 @@ programAmount 25000
 location Honolulu, Hawaii, USA
 lat 21.3069
 long -157.8583
+
+// Crypto
+
+name Sia Grants
+apply https://sia.tech/grants
+tags crypto grants
+founded 2022
+location Boston, MA
+lat 42.3601
+long -71.0589
+
+name Bitcoin Frontier Accelerator
+apply https://btcfrontier.fund/accelerator.html
+tags accelerator crypto
+founded 2021
+programAmount 70000
+location El Zonte, El Salvador
+lat 13.4942
+long -89.3853
