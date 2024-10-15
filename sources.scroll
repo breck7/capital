@@ -6,6 +6,40 @@ sources.parsers
 
 // VCS
 
+// Nevada, Arizona, & Utah VCs
+
+name Kickstart Seed Fund
+apply https://www.kickstartfund.com
+tags vc seed early growth
+founded 2008
+location Salt Lake City, Utah, USA
+lat 40.7608
+long -111.8910
+
+name Peterson Partners
+apply https://www.petersonpartners.com
+tags vc seed early growth
+founded 2003
+location Salt Lake City, Utah, USA
+lat 40.7608
+long -111.8910
+
+name Pelion Venture Partners
+apply https://pelionvp.com
+tags vc seed early growth
+founded 1986
+location Salt Lake City, Utah, USA
+lat 40.7608
+long -111.8910
+
+name Varkain
+apply https://www.varkain.com
+tags vc seed early growth
+founded 2014
+location Las Vegas, Nevada, USA
+lat 36.1699
+long -115.1398
+
 name Silverton Partners
 apply https://www.silvertonpartners.com
 tags vc seed early growth
