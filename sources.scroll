@@ -7,7 +7,7 @@ sources.parsers
 // VCS
 
 name Atomico
-apply https://www.atomico.com/contact/
+apply https://www.atomico.com
 tags vc early growth
 founded 2006
 location London, United Kingdom
@@ -15,7 +15,7 @@ lat 51.5074
 long -0.1278
 
 name Balderton Capital
-apply https://www.balderton.com/contact/
+apply https://www.balderton.com
 tags vc early growth
 founded 2000
 location London, United Kingdom
@@ -23,7 +23,7 @@ lat 51.5074
 long -0.1278
 
 name LocalGlobe
-apply https://www.localglobe.vc/contact/
+apply https://www.localglobe.vc
 tags vc seed early
 founded 2015
 location London, United Kingdom
@@ -31,7 +31,7 @@ lat 51.5074
 long -0.1278
 
 name Northzone
-apply https://northzone.com/contact/
+apply https://northzone.com
 tags vc early growth
 founded 1996
 location Stockholm, Sweden
@@ -39,7 +39,7 @@ lat 59.3293
 long 18.0686
 
 name Earlybird Venture Capital
-apply https://earlybird.com/contact/
+apply https://earlybird.com
 tags vc early growth
 founded 1997
 location Berlin, Germany
@@ -47,7 +47,7 @@ lat 52.5200
 long 13.4050
 
 name Rocket Internet
-apply https://www.rocket-internet.com/contact
+apply https://www.rocket-internet.com
 tags vc early growth
 founded 2007
 location Berlin, Germany
@@ -55,7 +55,7 @@ lat 52.5200
 long 13.4050
 
 name Lakestar
-apply https://www.lakestar.com/contact/
+apply https://www.lakestar.com
 tags vc early growth
 founded 2012
 location Zurich, Switzerland
@@ -63,7 +63,7 @@ lat 47.3769
 long 8.5417
 
 name HV Capital
-apply https://www.hvcapital.com/contact/
+apply https://www.hvcapital.com
 tags vc seed early growth
 founded 2000
 location Munich, Germany
@@ -71,7 +71,7 @@ lat 48.1351
 long 11.5820
 
 name Kima Ventures
-apply https://www.kimaventures.com/contact/
+apply https://www.kimaventures.com
 tags vc seed
 founded 2010
 location Paris, France
@@ -79,7 +79,7 @@ lat 48.8566
 long 2.3522
 
 name Point Nine Capital
-apply https://www.pointninecap.com/contact/
+apply https://www.pointninecap.com
 tags vc seed early
 founded 2011
 location Berlin, Germany
@@ -87,7 +87,7 @@ lat 52.5200
 long 13.4050
 
 name Sequoia Capital
-apply https://www.sequoiacap.com/contact/
+apply https://www.sequoiacap.com
 tags vc seed growth
 founded 1972
 location Menlo Park, California, USA
@@ -95,7 +95,7 @@ lat 37.45296
 long -122.17656
 
 name Andreessen Horowitz
-apply https://a16z.com/contact/
+apply https://a16z.com
 tags vc seed early growth
 founded 2009
 location Menlo Park, California, USA
@@ -135,7 +135,7 @@ lat 37.44188
 long -122.14302
 
 name Lightspeed Venture Partners
-apply https://lsvp.com/contact/
+apply https://lsvp.com
 tags vc seed early growth
 founded 2000
 location Menlo Park, California, USA
@@ -143,7 +143,7 @@ lat 37.45296
 long -122.17656
 
 name Bessemer Venture Partners
-apply https://www.bvp.com/contact
+apply https://www.bvp.com
 tags vc seed growth
 founded 1911
 location Menlo Park, California, USA
@@ -167,7 +167,7 @@ lat 40.73061
 long -73.93524
 
 name Insight Partners
-apply https://www.insightpartners.com/contact/
+apply https://www.insightpartners.com
 tags vc growth
 founded 1995
 location New York, New York, USA
@@ -175,7 +175,7 @@ lat 40.73061
 long -73.93524
 
 name Index Ventures
-apply https://www.indexventures.com/contact/
+apply https://www.indexventures.com
 tags vc seed early growth
 founded 1996
 location San Francisco, California, USA
@@ -191,7 +191,7 @@ lat 40.015
 long -105.2705
 
 name IVP (Institutional Venture Partners)
-apply https://www.ivp.com/contact/
+apply https://www.ivp.com
 tags vc growth
 founded 1980
 location Menlo Park, California, USA
@@ -199,7 +199,7 @@ lat 37.45296
 long -122.17656
 
 name Menlo Ventures
-apply https://www.menlovc.com/contact/
+apply https://www.menlovc.com
 tags vc seed early growth
 founded 1976
 location Menlo Park, California, USA
@@ -207,7 +207,7 @@ lat 37.45296
 long -122.17656
 
 name Battery Ventures
-apply https://www.battery.com/contact/
+apply https://www.battery.com
 tags vc seed early growth
 founded 1983
 location Boston, Massachusetts, USA
@@ -215,7 +215,7 @@ lat 42.3601
 long -71.0589
 
 name New Enterprise Associates (NEA)
-apply https://www.nea.com/contact/
+apply https://www.nea.com
 tags vc seed early growth
 founded 1977
 location Chevy Chase, Maryland, USA
@@ -223,7 +223,7 @@ lat 38.9819
 long -77.1003
 
 name Redpoint Ventures
-apply https://www.redpoint.com/contact
+apply https://www.redpoint.com
 tags vc seed early growth
 founded 1999
 location Menlo Park, California, USA
@@ -231,7 +231,7 @@ lat 37.45296
 long -122.17656
 
 name True Ventures
-apply https://trueventures.com/contact/
+apply https://trueventures.com
 tags vc seed early growth
 founded 2005
 location Palo Alto, California, USA
@@ -239,7 +239,7 @@ lat 37.44188
 long -122.14302
 
 name Shasta Ventures
-apply https://shastaventures.com/contact/
+apply https://shastaventures.com
 tags vc seed early growth
 founded 2004
 location Menlo Park, California, USA
