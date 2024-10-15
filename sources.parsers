@@ -13,6 +13,11 @@ tagsParser
  extends abstractStringMeasureParser
  float sortIndex 1.12
 
+foundedParser
+ description What year was the group founded?
+ extends abstractIntegerMeasureParser
+ float sortIndex 1.122
+
 // Location
 
 locationParser

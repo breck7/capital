@@ -12,6 +12,7 @@ tags vc seed growth
 location Menlo Park, California, USA
 lat 37.45296
 long -122.17656
+founded 1972
 
 name Andreessen Horowitz
 apply https://a16z.com/contact/
@@ -19,6 +20,7 @@ tags vc seed early growth
 location Menlo Park, California, USA
 lat 37.44843
 long -122.16102
+founded 2009
 
 name Benchmark
 apply https://www.benchmark.com/
@@ -26,6 +28,7 @@ tags vc early growth
 location San Francisco, California, USA
 lat 37.77493
 long -122.41942
+founded 1995
 
 name Kleiner Perkins
 apply https://www.kleinerperkins.com/
@@ -33,6 +36,7 @@ tags vc seed growth
 location Menlo Park, California, USA
 lat 37.45197
 long -122.17768
+founded 1972
 
 name General Catalyst
 apply https://generalcatalyst.com/
@@ -40,6 +44,7 @@ tags vc seed growth
 location Cambridge, Massachusetts, USA
 lat 42.37362
 long -71.10973
+founded 2000
 
 name Accel
 apply https://www.accel.com/
@@ -47,6 +52,7 @@ tags vc seed early growth
 location Palo Alto, California, USA
 lat 37.44188
 long -122.14302
+founded 1983
 
 name Lightspeed Venture Partners
 apply https://lsvp.com/contact/
@@ -54,6 +60,7 @@ tags vc seed early growth
 location Menlo Park, California, USA
 lat 37.45296
 long -122.17656
+founded 2000
 
 name Bessemer Venture Partners
 apply https://www.bvp.com/contact
@@ -61,6 +68,7 @@ tags vc seed growth
 location Menlo Park, California, USA
 lat 37.45296
 long -122.17656
+founded 1911
 
 name Greylock Partners
 apply https://www.greylock.com/
@@ -68,6 +76,7 @@ tags vc seed early growth
 location Menlo Park, California, USA
 lat 37.45296
 long -122.17656
+founded 1965
 
 name Union Square Ventures
 apply https://www.usv.com/
@@ -75,6 +84,7 @@ tags vc seed growth
 location New York, New York, USA
 lat 40.73061
 long -73.93524
+founded 2003
 
 name Insight Partners
 apply https://www.insightpartners.com/contact/
@@ -82,6 +92,7 @@ tags vc growth
 location New York, New York, USA
 lat 40.73061
 long -73.93524
+founded 1995
 
 name Index Ventures
 apply https://www.indexventures.com/contact/
@@ -89,6 +100,7 @@ tags vc seed early growth
 location San Francisco, California, USA
 lat 37.77493
 long -122.41942
+founded 1996
 
 name Foundry Group
 apply https://www.foundrygroup.com/
@@ -96,6 +108,7 @@ tags vc seed early growth
 location Boulder, Colorado, USA
 lat 40.015
 long -105.2705
+founded 2007
 
 name IVP (Institutional Venture Partners)
 apply https://www.ivp.com/contact/
@@ -103,6 +116,7 @@ tags vc growth
 location Menlo Park, California, USA
 lat 37.45296
 long -122.17656
+founded 1980
 
 name Menlo Ventures
 apply https://www.menlovc.com/contact/
@@ -110,6 +124,7 @@ tags vc seed early growth
 location Menlo Park, California, USA
 lat 37.45296
 long -122.17656
+founded 1976
 
 name Battery Ventures
 apply https://www.battery.com/contact/
@@ -117,6 +132,7 @@ tags vc seed early growth
 location Boston, Massachusetts, USA
 lat 42.3601
 long -71.0589
+founded 1983
 
 name New Enterprise Associates (NEA)
 apply https://www.nea.com/contact/
@@ -124,6 +140,7 @@ tags vc seed early growth
 location Chevy Chase, Maryland, USA
 lat 38.9819
 long -77.1003
+founded 1977
 
 name Redpoint Ventures
 apply https://www.redpoint.com/contact
@@ -131,6 +148,7 @@ tags vc seed early growth
 location Menlo Park, California, USA
 lat 37.45296
 long -122.17656
+founded 1999
 
 name True Ventures
 apply https://trueventures.com/contact/
@@ -138,6 +156,7 @@ tags vc seed early growth
 location Palo Alto, California, USA
 lat 37.44188
 long -122.14302
+founded 2005
 
 name Shasta Ventures
 apply https://shastaventures.com/contact/
@@ -145,6 +164,7 @@ tags vc seed early growth
 location Menlo Park, California, USA
 lat 37.45296
 long -122.17656
+founded 2004
 
 // Accelerators
 
@@ -157,6 +177,7 @@ programNotes (7% equity + 375k MFN SAFE)
 location Mountain View, California, USA
 lat 37.3861
 long -122.0839
+founded 2005
 
 name 500 Startups
 apply https://flagship.aplica.500.co/
@@ -166,6 +187,7 @@ programTake .06
 location San Francisco, California, USA
 lat 37.7749
 long -122.4194
+founded 2010
 
 name Techstars
 apply https://apply.techstars.com/?source=nav
@@ -175,6 +197,7 @@ programTake .06
 location Boulder, Colorado, USA
 lat 40.0150
 long -105.2705
+founded 2006
 
 name Berkeley SkyDeck
 apply https://skydeck.berkeley.edu/apply/
@@ -184,6 +207,7 @@ programTake .075
 location Berkeley, California, USA
 lat 37.8715
 long -122.2730
+founded 2012
 
 name Alchemist Accelerator
 apply https://www.alchemistaccelerator.com/apply
@@ -193,6 +217,7 @@ programTake .05
 location San Francisco, California, USA
 lat 37.7749
 long -122.4194
+founded 2012
 
 name Antler US
 apply https://www.antler.co/apply
@@ -202,6 +227,7 @@ programTake .12
 location New York, New York, USA
 lat 40.7128
 long -74.0060
+founded 2017
 
 name Hf0
 apply https://www.hf0.com/apply
@@ -212,6 +238,7 @@ programNotes uncapped SAFE
 location San Francisco, California, USA
 lat 37.7749
 long -122.4194
+founded 2021
 
 name The Mint
 apply https://mintapplication.btv.vc/
@@ -221,6 +248,7 @@ programTake .1
 location Austin, Texas, USA
 lat 30.2672
 long -97.7431
+founded 2020
 
 name Launch Accelerator
 apply https://www.launch.co/apply
@@ -230,6 +258,7 @@ programTake .07
 location San Francisco, California, USA
 lat 37.7749
 long -122.4194
+founded 2016
 
 name Greylock Edge
 apply https://form.typeform.com/to/a9xz4TxD
@@ -239,6 +268,7 @@ programNotes Flexible SAFE + $500k+ in credits
 location Menlo Park, California, USA
 lat 37.4530
 long -122.1817
+founded 2019
 
 name AI2 Incubator
 apply https://www.ai2incubator.com/apply
@@ -247,6 +277,7 @@ programAmount 500000
 location Seattle, Washington, USA
 lat 47.6062
 long -122.3321
+founded 2017
 
 name South Park Commons
 apply https://www.southparkcommons.com/apply
@@ -256,6 +287,7 @@ programTake .07
 location San Francisco, California, USA
 lat 37.7749
 long -122.4194
+founded 2015
 
 name Founder Institute
 apply https://fi.co/apply
@@ -265,6 +297,7 @@ programTake .04
 location Palo Alto, California, USA
 lat 37.4419
 long -122.1430
+founded 2009
 
 name Accel Atoms
 apply https://atoms.accel.com/
@@ -273,6 +306,7 @@ programAmount 500000
 location Palo Alto, California, USA
 lat 37.4419
 long -122.1430
+founded 2020
 
 name Bitcoin Frontier Accelerator
 apply https://btcfrontier.fund/accelerator.html
@@ -281,6 +315,7 @@ programAmount 70000
 location El Zonte, El Salvador
 lat 13.4942
 long -89.3853
+founded 2021
 
 name Platanus Ventures
 apply https://kalio.platan.us/apply
@@ -289,6 +324,7 @@ programAmount 200000
 location Santiago, Chile
 lat -33.4489
 long -70.6693
+founded 2020
 
 name Blue Startups
 apply https://www.bluestartups.com/
@@ -297,3 +333,4 @@ programAmount 25000
 location Honolulu, Hawaii, USA
 lat 21.3069
 long -157.8583
+founded 2013
