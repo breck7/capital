@@ -1,5 +1,8 @@
 header.scroll
 
+center
+plainText clone capitaldb.togger.com
+
 table sources.csv
  rename apply nameLink
   orderBy -give
