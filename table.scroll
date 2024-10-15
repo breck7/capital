@@ -1,0 +1,11 @@
+header.scroll
+
+table sources.csv
+ rename apply nameLink
+  orderBy -give
+   select name nameLink founded tags location
+    printTable
+
+tableSearch
+
+footer.scroll

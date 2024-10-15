@@ -7,14 +7,8 @@ table sources.csv
    long -122.39484531479059
    zoom 2
    fillColor green
+   height full
    radius 15
    tiles light
    color transparent
    hover <b><a href="{nameLink}">{name}</a></b><br>Location: {location}
-  orderBy -give
-   select name nameLink founded tags location
-    printTable
-
-tableSearch
-
-footer.scroll
