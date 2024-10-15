@@ -1495,6 +1495,14 @@ location Boston, MA
 lat 42.3601
 long -71.0589
 
+name Polkadot Grants
+apply https://polkadot.com/developers/grants
+tags crypto grants
+founded 2024
+location Boston, MA
+lat 42.3601
+long -71.0589
+
 name Bitcoin Frontier Accelerator
 apply https://btcfrontier.fund/accelerator.html
 tags accelerator crypto
