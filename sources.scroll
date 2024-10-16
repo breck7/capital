@@ -1458,6 +1458,26 @@ location Boston, Massachusetts, USA
 lat 42.3601
 long -71.0589
 
+name Startupbootcamp
+apply https://www.startupbootcamp.org/apply
+tags accelerator
+founded 2010
+programAmount 15000
+programTake .08
+location Amsterdam, Netherlands
+lat 52.3676
+long 4.9041
+
+name Seedcamp
+apply https://seedcamp.com/apply
+tags accelerator
+founded 2007
+programAmount 100000
+programTake .07
+location London, England, UK
+lat 51.5074
+long -0.1278
+
 name South Park Commons
 apply https://www.southparkcommons.com/apply
 tags accelerator
