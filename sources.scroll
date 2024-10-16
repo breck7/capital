@@ -1448,6 +1448,16 @@ location San Francisco, California, USA
 lat 37.7749
 long -122.4194
 
+name MassChallenge
+apply https://masschallenge.org/programs-for-startups
+tags accelerator
+founded 2009
+programAmount 0
+programTake 0
+location Boston, Massachusetts, USA
+lat 42.3601
+long -71.0589
+
 name South Park Commons
 apply https://www.southparkcommons.com/apply
 tags accelerator
