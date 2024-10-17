@@ -6,6 +6,132 @@ sources.parsers
 
 // VCS
 
+name Icon Ventures
+apply https://iconventures.com/
+tags vc
+location 505 Hamilton Avenue, Suite 310, Palo Alto, CA 94301
+lat 37.4440
+long -122.1607
+
+name Amino Capital
+apply https://amino.capital/
+tags vc
+location 346 Emerson, Palo Alto, CA 94301
+lat 37.4453
+long -122.1631
+
+name Eclipse.VC
+apply https://eclipse.vc/
+tags vc
+location 514 High Street, Palo Alto, CA 94301
+lat 37.4433
+long -122.1575
+
+name Next Legacy Partners
+apply https://nextlegacypartners.com/
+tags vc
+location 180 Lytton Ave, Palo Alto, CA 94301
+lat 37.4450
+long -122.1608
+
+name Costanoa Ventures
+apply https://costanoavc.com/
+tags vc
+location 160 Forest Ave, Palo Alto, CA 94301
+lat 37.4478
+long -122.1610
+
+name Matrix Partners
+apply https://matrixpartners.com/
+tags vc
+location 260 Homer Ave Ste 201, Palo Alto, CA 94301
+lat 37.4449
+long -122.1638
+
+name Palo Alto Venture Partners
+apply https://pavp.com/
+tags vc
+location 300 Hamilton Ave 4th floor, Palo Alto, CA 94301
+lat 37.4440
+long -122.1615
+
+name Wing Venture Capital
+apply https://wing.vc/
+tags vc
+location 480 Lytton Ave, Palo Alto, CA 94301
+lat 37.4468
+long -122.1600
+
+name Runa Capital
+apply https://runacap.com/
+tags vc
+location 459 Hamilton Ave, Palo Alto, CA 94301
+lat 37.4442
+long -122.1592
+
+name Ulu Ventures
+apply https://uluventures.com/
+tags vc
+location 115 Everett Ave, Palo Alto, CA 94301
+lat 37.4450
+long -122.1577
+
+name Lucas Venture Group
+apply https://lucasvp.com/
+tags vc
+location 555 Bryant St #239, Palo Alto, CA 94301
+lat 37.4468
+long -122.1602
+
+name SV TECH VENTURES
+apply https://svtechventures.com/
+tags vc
+location 543 Bryant St, Palo Alto, CA 94301
+lat 37.4467
+long -122.1604
+
+name Nautilus Venture Partners
+apply https://nautilusvp.com/
+tags vc
+location 575 High St #330, Palo Alto, CA 94301
+lat 37.4429
+long -122.1574
+
+name Moment Ventures
+apply https://moment.ventures/
+tags vc
+location 516 High St, Palo Alto, CA 94301
+lat 37.4433
+long -122.1575
+
+name Storm
+apply https://storm.vc/
+tags vc
+location 532 Emerson St, Palo Alto, CA 94301
+lat 37.4454
+long -122.1632
+
+name Next47
+apply https://next47.com/
+tags vc
+location 537 Hamilton Ave, Palo Alto, CA 94301
+lat 37.4441
+long -122.1573
+
+name Sorenson Capital
+apply https://sorensoncapital.com/
+tags vc
+location 525 University Ave Suite 605, Palo Alto, CA 94301
+lat 37.4479
+long -122.1596
+
+name Evolution Equity Partners
+apply https://evolutionequity.com/
+tags vc
+location 610 University Ave, Palo Alto, CA 94304
+lat 37.4487
+long -122.1581
+
 name Granite Asia
 apply https://www.graniteasia.com
 tags vc multi-asset investment
