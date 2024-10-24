@@ -1,11 +1,13 @@
-importOnly
 baseUrl https://capitaldb.togger.com/
-buildHtml
 favicon logo.png
 openGraphImage og.png
 replace MOTTO Find capital to make things you love
 replace NAME CapitalDB
 title NAME: MOTTO
+
+importOnly
+buildHtml
+editButton /edit.html
 
 theme gazette
 metaTags
