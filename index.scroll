@@ -1,6 +1,6 @@
 header.scroll
 
-table sources.csv
+sources.csv
  rename apply nameLink
   map
    lat 42.0834
