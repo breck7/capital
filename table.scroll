@@ -3,7 +3,7 @@ header.scroll
 center
 plainText clone capitaldb.togger.com
 
-table sources.csv
+sources.csv
  rename apply nameLink
   orderBy -give
    select name nameLink founded tags location
