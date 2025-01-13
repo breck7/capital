@@ -7,6 +7,6 @@
  table.html Table
 
 code
- // Download your own copy!
+ // Download your own copy:
  npm install -g scroll-cli
  clone capital.scroll.pub
