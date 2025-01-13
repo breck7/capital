@@ -7,7 +7,7 @@ sources.csv
  rename apply nameLink
   orderBy -give
    where tag includes accelerator
-    select name nameLink founded tags location programAmount
+    select name nameLink founded location programAmount
      printTable
 
 tableSearch
