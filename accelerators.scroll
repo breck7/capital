@@ -6,7 +6,7 @@ plainText clone capitaldb.togger.com
 sources.csv
  rename apply nameLink
   orderBy -give
-   select name nameLink founded tags location
+   select name nameLink founded tags location give
     printTable
 
 tableSearch
