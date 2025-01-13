@@ -1,7 +1,9 @@
 header.scroll
 
 center
-plainText git clone capitaldb.togger.com
+code
+ npm install -g scroll-cli
+ clone capitaldb.togger.com
 
 sources.csv
  rename apply nameLink
