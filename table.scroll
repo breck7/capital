@@ -1,7 +1,7 @@
 header.scroll
 
 center
-plainText clone capitaldb.togger.com
+plainText git clone capitaldb.togger.com
 
 sources.csv
  rename apply nameLink
