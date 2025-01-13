@@ -5,3 +5,7 @@
  link /edit.html?folderName=capital.scroll.pub&fileName=sources.scroll Add program
  link sources.json JSON
  table.html Table
+
+code
+ npm install -g scroll-cli
+ clone capitaldb.togger.com
