@@ -1681,6 +1681,7 @@ long -89.3853
 name Entrepreneur First
 apply https://apply.joinef.com/
 tags accelerator
+founded 2011
 programAmount 250000
 programTake .09
 location London, United Kingdom
@@ -1690,6 +1691,7 @@ long -0.1278
 name Rockstart
 apply https://rockstart1.typeform.com/to/qoieotFj
 tags accelerator
+founded 2011
 programAmount 20000
 programTake .06
 location Amsterdam, Netherlands
@@ -1699,6 +1701,7 @@ long 4.9041
 name Rockstart Latinoamérica
 apply https://rockstart.com/latam/
 tags accelerator
+founded 2019
 programAmount 80000
 programTake .06
 location Amsterdam, Netherlands
@@ -1708,6 +1711,7 @@ long 4.9041
 name Boost VC
 apply https://www.boost.vc/
 tags accelerator
+founded 2012
 programAmount 500000
 programTake .15
 location San Mateo, California, USA
@@ -1717,6 +1721,7 @@ long -122.3255
 name HEARTFELT_ fund
 apply https://heartfelt.capital/
 tags accelerator
+founded 2022
 programAmount 50000
 programTake .05
 location Berlin, Germany
@@ -1726,6 +1731,7 @@ long 13.4050
 name Startup Wise Guys
 apply https://startupwiseguys.com/
 tags accelerator
+founded 2012
 programAmount 250000
 programTake .08
 location Tallinn, Estonia
@@ -1735,6 +1741,7 @@ long 24.7536
 name Sequoia Capital Arc
 apply https://www.sequoiacap.com/arc/
 tags accelerator
+founded 2021
 programAmount 1000000
 programTake .10
 location San Francisco, California, USA
@@ -1744,6 +1751,7 @@ long -122.4194
 name Outlier Ventures
 apply https://outlierventures.io/
 tags accelerator crypto
+founded 2014
 programAmount 62500
 programTake .06
 location London, United Kingdom
@@ -1753,6 +1761,7 @@ long -0.1278
 name Afore Capital Founders in Residence
 apply https://www.afore.vc/residence
 tags accelerator
+founded 2016
 programAmount 500000
 programTake .07
 location San Francisco, California, USA
