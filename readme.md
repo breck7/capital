@@ -14,9 +14,9 @@ A comprehensive, community-maintained database of venture capital firms, acceler
 Want to add a program or fix a mistake? Visit `https://capital.scroll.pub/edit.html?fileName=sources.scroll`.
 
 ## Data
-- Browse the [interactive map](index.html)
-- View the [full table](table.html)
-- Access raw data in [JSON format](sources.json)
+- Browse the [interactive map](https://capital.scroll.pub/index.html)
+- View the [full table](https://capital.scroll.pub/table.html)
+- Access raw data in [JSON format](https://capital.scroll.pub/sources.json)
 
 ## Public Domain
 Built with ❤️ by [Breck Yunits](https://twitter.com/breckyunits). Inspired by [Steven Huang](https://x.com/StevenHHB).
