@@ -1,10 +1,6 @@
 header.scroll
 
 center
-code
- npm install -g scroll-cli
- clone capitaldb.togger.com
-
 sources.csv
  rename apply nameLink
   orderBy -give
